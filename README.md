@@ -1,2 +1,2 @@
 # UnstructuredDataAnalysis
-Text and images analysis using vectorizers, dimensionality reduction and neural nets
+Text Processing using manual vectorization and PMI 
